@@ -8,11 +8,14 @@
 
 <h4 align="center">Una solucion de CM para el monitoreo de maquinas.</h4>
 
-<p align="center">Semillero de Condition Monitor | Universidad EIA ![logo eia](https://github.com/EIA-University/LogosEIA/blob/master/assets/png/logo-eia-icon.png?raw=true)<p>
+<p align="center">Semillero de Condition Monitor<p>
+<p align="center"> Universidad EIA ![logo eia](https://github.com/EIA-University/LogosEIA/blob/master/assets/png/logo-eia-icon.png?raw=true)</p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/version-v0.0.1-brightgreen"
-         alt="Gitter">
+         alt="version:v0.0.1">
+    <img src="https://img.shields.io/badge/license%20-MIT-blue"
+         alt="version:v0.0.1">
 </p>
 
 <p align="center">
