@@ -9,7 +9,7 @@
 <h4 align="center">Una solucion de CM para el monitoreo de maquinas.</h4>
 
 <p align="center">Semillero de Condition Monitor<p>
-<p align="center"> Universidad EIA ![logo eia](https://github.com/EIA-University/LogosEIA/blob/master/assets/png/logo-eia-icon.png?raw=true)</p>
+<p align="center"> Universidad EIA <img src="https://github.com/EIA-University/LogosEIA/blob/master/assets/png/logo-eia-icon.png?raw=true"/></p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/version-v0.0.1-brightgreen"
@@ -29,18 +29,20 @@
 
 ---
 
-<p align='center'>
-## Quick links
-<a href=''>
-    <img src='https://img.shields.io/badge/HOMEPAGE-gray?style=for-the-badge'>
-</a>
-<a href=''>
-    <img src='https://img.shields.io/badge/RESEARCH-blue?style=for-the-badge'>
-</a>
-<a href=''>
-    <img src='https://img.shields.io/badge/CASE STUDY-green?style=for-the-badge'>
-</a>
-</p>
+<div align="center">
+<p><strong align="center">Quick links</strong></p>
+  <p>
+    <a href=''>
+        <img src='https://img.shields.io/badge/HOMEPAGE-gray?style=for-the-badge'>
+    </a>
+    <a href=''>
+        <img src='https://img.shields.io/badge/RESEARCH-blue?style=for-the-badge'>
+    </a>
+    <a href=''>
+        <img src='https://img.shields.io/badge/CASE STUDY-green?style=for-the-badge'>
+    </a>
+  </p>
+</div>
 
 ---
 
